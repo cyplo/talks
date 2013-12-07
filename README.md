@@ -7,6 +7,7 @@ most of the talks should have the slides prerendered in the respective directori
 
 this repository contains submodules  
 please exec  
+
     git submodule init
     git submodule update
 after a fresh clone, to get all the content
