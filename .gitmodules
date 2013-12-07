@@ -1,0 +1,3 @@
+[submodule "erlang_tech_night"]
+	path = erlang_tech_night
+	url = git@github.com:erlang-wroclaw/erlang_tech_night.git
