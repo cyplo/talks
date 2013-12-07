@@ -1,6 +1,5 @@
 ### contains materials for talks and presentations I gave
 
-
 slides are mostly made with mdpress, using my cusotm theme, based on the default one  
 use mdpress -r -s cypress [path] to run them  
 most of the talks should have the slides prerendered in the respective directories  
@@ -12,7 +11,7 @@ please exec
     git submodule update
 after a fresh clone, to get all the content
 
-## License
+### License
 
 ![cc-by-sa](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
