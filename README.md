@@ -1,7 +1,7 @@
 ### contains materials for talks and presentations I gave
 
 slides are mostly made with mdpress, using my cusotm theme, based on the default one  
-use mdpress -r -s cypress [path] to run them  
+use `mdpress -r -s cypress [path]` to run them  
 most of the talks should have the slides prerendered in the respective directories  
 
 this repository contains submodules  
