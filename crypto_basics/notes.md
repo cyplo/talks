@@ -1,3 +1,10 @@
+# examples
+* car keys
+* garage keys
+* immobilizers
+* public transport network info
+
+
 implementing - use libraries and understood designs because it's hard any other way
 * don't use generic string comparison functions - timing attacks
 *
