@@ -15,6 +15,9 @@ group : guess number of crypto transactions
 # motivation for encrypting
 * privacy - medical records
 
+# history
+* ceasar's cipher - sweet for [rot13]
+*
 
 implementing - use libraries and understood designs because it's hard any other way
 * don't use generic string comparison functions - timing attacks
