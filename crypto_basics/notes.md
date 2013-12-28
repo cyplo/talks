@@ -1,8 +1,19 @@
+# warmup
+volunteer[s] + 
+group : guess number of crypto transactions
+
 # examples
 * car keys
 * garage keys
 * immobilizers
 * public transport network info
+
+# motivation for the talk
+* so ubiqutous yet misundesrtood
+* no master, but can provide points to start learning
+
+# motivation for encrypting
+* privacy - medical records
 
 
 implementing - use libraries and understood designs because it's hard any other way
