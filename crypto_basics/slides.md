@@ -1,7 +1,6 @@
 ---
 
 # Cryptography basics
-
 > Cyryl Płotnicki-Chudyk
 
 ---
