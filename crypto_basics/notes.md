@@ -17,16 +17,39 @@ volunteer[s] +
 
 # history and motivation
 * Ceasar's cipher
-* other substution ciphers - e.g. enigma
+quiz: any problems with this ?
 * problems with substitution ciohers - guesses?
 * problem1: prone to statistical analysis
 * problem2: no message integrity heck
 * problem3: no sender verification
 
-* some math(key, text) - code books
-* one time pads
+* polyalphabetic ciphers: a try to disguise the letter frequency
+* other substution ciphers - e.g. enigma
+* one time pads: XOR plain letter with key letter
+* one time pads: proved unreakable by Shannon, if the key is secret and random and as long as plaintext
 
-* motivation: mostly war and economic
+shared secrets are needed
+
+ motivation: mostly war and economic
+
+symmetric crypt nowadays:
+* stream ciphers
+* stream ciphers: plaintext stream XOR keystream
+* stream ciphers: used in 'realtime', ciper a bit, send, decipher [synchronous stream ciphers]
+
+* blocks ciphers
+generally accept a block and a key, more specifically there needs to be a round key derivation
+some function and its inverse
+naive: take a plaintext, divide into blocks, cipher, concat [penguin]
+more modern: take a randomization of the plaintext, embed initialization vector in the first block, then embed a derivate in the second block etc
+
+DES and then AES
+
+mostly side channel attacks, some theoretical attacks
+'break' - anything better than bruteforcing key
+
+
+quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
 
 * assymetric crypto - pun/quiz
 
@@ -70,9 +93,6 @@ Camellia's block size is 16 bytes (128 bits), and can use 128-bit, 192-bit or 25
 implementing - use libraries and understood designs because it's hard any other way
 * don't use generic string comparison functions - timing attacks
 * don't implement your own crypto
-* http://blog.existentialize.com/so-you-want-to-crypto.html
-
-
 
 # quickly on attacks
 * "properly implemented strong crypto still works"
@@ -81,5 +101,5 @@ implementing - use libraries and understood designs because it's hard any other 
 learn more about crypto
 * https://www.coursera.org/course/crypto
 * https://www.schneier.com/book-applied.html
-
+* http://blog.existentialize.com/so-you-want-to-crypto.html
 
