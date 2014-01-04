@@ -1,4 +1,5 @@
-# warmup
+# warmup game
+
 volunteer[s] + 
 * group : guess number of data transactions - protected and not
 
@@ -13,6 +14,13 @@ volunteer[s] +
 # motivation for the talk
 * so ubiqutous yet misundesrtood
 * no master, but can provide points to start learning
+
+# history
+* Ceasar's cipher
+* other substution ciphers - e.g. enigma
+* some math(key, text) - code books
+* one time pads
+* problem: key exchange
 
 # let us deconstruct some protocols
 * with which do you want to start ?
