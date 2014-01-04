@@ -48,8 +48,13 @@ DES and then AES
 mostly side channel attacks, some theoretical attacks
 'break' - anything better than bruteforcing key
 
+performance: 700MB/s per execution thread on modern CPUs
 
 quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
+[length]
+
+generally good for data at rest problems, similar to assymetric crypto in key security there
+
 
 * assymetric crypto - pun/quiz
 
