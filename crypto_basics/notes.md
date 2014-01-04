@@ -1,5 +1,4 @@
 # warmup game
-
 volunteer[s] + 
 * group : guess number of data transactions - protected and not
 
@@ -15,7 +14,8 @@ volunteer[s] +
 * so ubiqutous yet misundesrtood
 * no master, but can provide points to start learning
 
-# history
+
+# history and motivation
 * Ceasar's cipher
 * other substution ciphers - e.g. enigma
 * problems with substitution ciohers - guesses?
@@ -26,8 +26,13 @@ volunteer[s] +
 * some math(key, text) - code books
 * one time pads
 
+* motivation: mostly war and economic
+
 * assymetric crypto - pun/quiz
 
+* modern motivations: mostly privacy of the individual
+
+# end of part 1, break ?
 
 # let us deconstruct some protocols
 * with which do you want to start ?
@@ -61,23 +66,17 @@ Camellia's block size is 16 bytes (128 bits), and can use 128-bit, 192-bit or 25
 
 
 
-# motivation for encrypting
-* privacy - medical records
-
-# history
-* ceasar's cipher - sweet for [rot13]
-*
-
+# notes on implementation
 implementing - use libraries and understood designs because it's hard any other way
 * don't use generic string comparison functions - timing attacks
-*
+* don't implement your own crypto
+* http://blog.existentialize.com/so-you-want-to-crypto.html
 
-quick on attacks:
+
+
+# quickly on attacks
 * "properly implemented strong crypto still works"
 * most of attacks - side channel ones
-
-don't implement your own crypto
-* http://blog.existentialize.com/so-you-want-to-crypto.html
 
 learn more about crypto
 * https://www.coursera.org/course/crypto
