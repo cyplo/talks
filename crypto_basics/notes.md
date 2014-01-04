@@ -18,9 +18,16 @@ volunteer[s] +
 # history
 * Ceasar's cipher
 * other substution ciphers - e.g. enigma
+* problems with substitution ciohers - guesses?
+* problem1: prone to statistical analysis
+* problem2: no message integrity heck
+* problem3: no sender verification
+
 * some math(key, text) - code books
 * one time pads
-* problem: key exchange
+
+* assymetric crypto - pun/quiz
+
 
 # let us deconstruct some protocols
 * with which do you want to start ?
