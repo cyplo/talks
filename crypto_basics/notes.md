@@ -103,6 +103,12 @@ implementing - use libraries and understood designs because it's hard any other 
 * "properly implemented strong crypto still works"
 * most of attacks - side channel ones
 
+takeaways:
+* strong crypto works
+* random number generators are important
+* never implement crypto systems from scratch
+
+
 learn more about crypto
 * https://www.coursera.org/course/crypto
 * https://www.schneier.com/book-applied.html
