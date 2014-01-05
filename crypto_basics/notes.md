@@ -53,7 +53,6 @@ performance: 700MB/s per execution thread on modern CPUs
 quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
 [length]
 
-# end of part 1, break ?
 
 #assymetric crypto
 * assymetric crypto - pun/quiz
@@ -82,6 +81,7 @@ key generation:
 
 * modern motivations: mostly privacy of the individual
 
+# end of part 1, break ?
 
 # let us deconstruct some protocols
 * with which do you want to start ?
@@ -112,7 +112,8 @@ In cryptography, Camellia is a 128-bit symmetric-key block cipher jointly develo
 
 Camellia's block size is 16 bytes (128 bits), and can use 128-bit, 192-bit or 256-bit keys. The block cipher was designed to be suitable for both software and hardware implementations, from low-cost smart cards to high-speed network systems.[2]
 
-
+* there is an upgrade to existing plaintext connections: STARTTLS, maintain tcp connection
+*
 
 
 # notes on implementation
