@@ -53,14 +53,35 @@ performance: 700MB/s per execution thread on modern CPUs
 quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
 [length]
 
-generally good for data at rest problems, similar to assymetric crypto in key security there
+# end of part 1, break ?
 
-
+#assymetric crypto
 * assymetric crypto - pun/quiz
+
+while symmetric crypto is good for data at rest problems, or the same person using the data as encrypting it
+it's not very good when it comes tokey exchange stuff
+
+hence assymetric crypto
+public key - allows checking signatures and encrypting
+privatekey - signing and decrypting
+
+# RSA as an example of public key crypto
+oldest
+key generation:
+* choose 2 primes at random: p and q
+* n=pq
+* derive public key from n, derive private key from n
+
+* insecure when not padded randomly
+* bad randomness allows for key collisions
+
+# attacks - quiz - 
+* google for private keys ;)
+* private key security
+* side channel attacks
 
 * modern motivations: mostly privacy of the individual
 
-# end of part 1, break ?
 
 # let us deconstruct some protocols
 * with which do you want to start ?
