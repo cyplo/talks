@@ -1,29 +1,28 @@
 
 ---
 
-# Cryptography basics
-> Cyryl Płotnicki-Chudyk
+# cryptography basics
 
 ---
 
-# Warmup !
+# warmup time !
 
 ---
 
-# Examples
+# examples
 
 --- 
 
-# History
+# history
 
 ---
 
-## substitution ciphers
+# substitution ciphers
 
 ---
 
-## polyalphabetic substitution
+# polyalphabetic substitution
 
 ---
 
-
+> Creative Commons Attribution Sharealike 4
