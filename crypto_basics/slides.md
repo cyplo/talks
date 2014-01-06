@@ -25,4 +25,12 @@
 
 ---
 
+# one time pads
+
+---
+
+# symmetric cryptography
+
+---
+
 > Creative Commons Attribution Sharealike 4

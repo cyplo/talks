@@ -19,7 +19,7 @@ body {
 }
 
 .step {
-	width: 1060px;
+	width: 1280px;
 	padding: 40px 0;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -65,7 +65,7 @@ h1, h2 {
 }
 
 h1 {
-	font-size: 120px;
+	font-size: 100px;
 	margin: 20px 0;
 	line-height: 130px;
 }

@@ -17,8 +17,8 @@ volunteer[s] +
 
 # history and motivation
 * Ceasar's cipher
-quiz: any problems with this ?
-* problems with substitution ciohers - guesses?
+# quiz: any problems with this ?
+* problems with substitution ciphers - guesses?
 * problem1: prone to statistical analysis
 * problem2: no message integrity heck
 * problem3: no sender verification
@@ -28,11 +28,12 @@ quiz: any problems with this ?
 * one time pads: XOR plain letter with key letter
 * one time pads: proved unreakable by Shannon, if the key is secret and random and as long as plaintext
 
-shared secrets are needed
+# quiz: problems with all the stuff so far ?
+* shared secrets are needed
 
- motivation: mostly war and economic
+motivation: mostly war and economic
 
-symmetric crypt nowadays:
+# symmetric crypt nowadays:
 * stream ciphers
 * stream ciphers: plaintext stream XOR keystream
 * stream ciphers: used in 'realtime', ciper a bit, send, decipher [synchronous stream ciphers]
