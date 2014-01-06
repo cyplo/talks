@@ -9,7 +9,7 @@
 
 ---
 
-# examples
+# everyday examples
 
 --- 
 
@@ -18,10 +18,12 @@
 ---
 
 # substitution ciphers
+> Ceasar's
 
 ---
 
 # polyalphabetic substitution
+> Enigma
 
 ---
 
@@ -29,8 +31,12 @@
 
 ---
 
-# symmetric cryptography
+# symmetric cryptography nowadays
+> stream ciphers, block ciphers
 
 ---
 
+
+
+--- 
 > Creative Commons Attribution Sharealike 4

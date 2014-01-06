@@ -1,9 +1,11 @@
+# change slide !
+
 # warmup game
 volunteer[s] + 
 * group : guess number of data transactions - protected and not
 * sweet for guesses, sweet for volunteer
 
-# examples
+# (examples)
 * car keys
 * garage keys
 * immobilizers
@@ -11,11 +13,11 @@ volunteer[s] +
 * mobile phone network
 * internet
 
-# [examples] motivation for the talk
+# (examples) motivation for the talk
 * so ubiqutous yet misundesrtood
 * no master, but can provide points to start learning
 
-# history and motivation
+# (history) -> (subsitution)
 * Ceasar's cipher
 
 # quiz: any problems with this ?
@@ -24,23 +26,25 @@ volunteer[s] +
 * problem2: no message integrity heck
 * problem3: no sender verification
 
-# polyalphabetic ciphers
+# (polyalphabetic ciphers)
 * a try to disguise the letter frequency
 * enigma
 
-# one time pads:
+# (one time pads):
 * XOR plain letter with key letter
 * one time pads: proved unreakable by Shannon, if the key is secret and random and as long as plaintext
 
 # quiz: problems with all the stuff so far ?
 * shared secrets are needed
 
-motivation: mostly war and economic
+# (symmetric crypt nowadays):
+* reason for being called symmetric 
 
-# symmetric crypt nowadays:
 * stream ciphers
-* stream ciphers: plaintext stream XOR keystream
-* stream ciphers: used in 'realtime', ciper a bit, send, decipher [synchronous stream ciphers]
+stream ciphers: plaintext stream XOR keystream
+stream ciphers: used in 'realtime', ciper a bit, send, decipher [synchronous stream ciphers]
+stream ciphers: infamous example: RC4
+
 
 * blocks ciphers
 generally accept a block and a key, more specifically there needs to be a round key derivation
