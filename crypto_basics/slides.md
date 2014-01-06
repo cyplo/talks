@@ -1,3 +1,4 @@
+
 ---
 
 # Cryptography basics
@@ -5,7 +6,23 @@
 
 ---
 
-# Volunteer ?
+# Warmup !
+
+---
+
+# Examples
+
+--- 
+
+# History
+
+---
+
+## substitution ciphers
+
+---
+
+## polyalphabetic substitution
 
 ---
 
