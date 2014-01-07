@@ -47,7 +47,7 @@ stream ciphers: used in 'realtime', ciper a bit, send, decipher [synchronous str
 stream ciphers: infamous example: RC4
 
 
-* blocks ciphers
+# (block ciphers)
 generally accept a block and a key
 some function and its inverse
 naive: take a plaintext, divide into blocks, cipher, concat 
@@ -55,6 +55,12 @@ naive: take a plaintext, divide into blocks, cipher, concat
 * (show penguin)
 * in fact it's easy to spot patterns, that's what the brain is for
 * TV static: cosmic radiation
+
+# quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
+length
+
+# quiz: other attacks ?
+
 
 more modern: take a randomization of the plaintext, embed initialization vector in the first block, then embed a derivate in the second block etc
 
@@ -64,11 +70,6 @@ mostly side channel attacks, some theoretical attacks
 'break' - anything better than bruteforcing key
 
 performance: 700MB/s per execution thread on modern CPUs
-
-# quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
-length
-
-# quiz: other attacks ?
 
 
 #assymetric crypto
@@ -106,7 +107,6 @@ key generation:
 
 
 # let us deconstruct some protocols
-* with which do you want to start ?
 * it's easiest to read info on https sessions, can we start with that ?
 
 # https
@@ -137,14 +137,16 @@ Camellia's block size is 16 bytes (128 bits), and can use 128-bit, 192-bit or 25
 * there is an upgrade to existing plaintext connections: STARTTLS, maintain tcp connection
 *
 
+# how to test implementations
+* decouple network security from app security - insecure, duh !
 
 # notes on implementation
 implementing - use libraries and understood designs because it's hard any other way
 * don't use generic string comparison functions - timing attacks
 * don't implement your own crypto
 
-# quickly on attacks
-* "properly implemented strong crypto still works"
+# quick review of attacks on attacks
+# quiz: who said that: "properly implemented strong crypto still works"
 * most of attacks - side channel ones
 
 takeaways:
@@ -158,3 +160,10 @@ learn more about crypto
 * https://www.schneier.com/book-applied.html
 * http://blog.existentialize.com/so-you-want-to-crypto.html
 
+CCC: 
+
+'this year in crypto'
+* https://www.youtube.com/watch?v=HJB1mYEZPPA
+
+and other stuff
+* https://www.youtube.com/watch?v=CNXl56HuJaE
