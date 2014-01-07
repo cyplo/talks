@@ -64,6 +64,10 @@
 
 ---
 
+![](../images/alice_and_bob2.jpg)
+
+---
+
 ![](../images/alice_and_bob.jpg)
 
 ---
