@@ -52,6 +52,14 @@
 
 --- 
 
+![](../images/win32_3d.gif)
+
+---
+
+![](../images/dpa.jpg)
+
+---
+
 > Creative Commons Attribution Sharealike 4
 
 --- 

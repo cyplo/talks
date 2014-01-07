@@ -15,7 +15,8 @@ volunteer[s] +
 
 # (examples) motivation for the talk
 * so ubiqutous yet misundesrtood
-* no master, but can provide points to start learning
+* I'm not an expert, nor poperly math-skilled but can provide points to start learning
+* field is so huge it was very hard for me to choose what to talk about
 
 # (history) -> (subsitution)
 * Ceasar's cipher
@@ -97,7 +98,12 @@ key generation:
 
 * modern motivations: mostly privacy of the individual
 
-# end of part 1, break ?
+# part1: takeways:
+* entropy is king
+* most attacks are not the attacks on the math
+
+# break
+
 
 # let us deconstruct some protocols
 * with which do you want to start ?
