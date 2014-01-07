@@ -47,11 +47,13 @@ stream ciphers: infamous example: RC4
 
 
 * blocks ciphers
-generally accept a block and a key, more specifically there needs to be a round key derivation
+generally accept a block and a key
 some function and its inverse
-naive: take a plaintext, divide into blocks, cipher, concat [penguin]
+naive: take a plaintext, divide into blocks, cipher, concat 
 # quiz: what is the problem with that approach ?
 * (show penguin)
+* in fact it's easy to spot patterns, that's what the brain is for
+* TV static: cosmic radiation
 
 more modern: take a randomization of the plaintext, embed initialization vector in the first block, then embed a derivate in the second block etc
 
@@ -62,8 +64,10 @@ mostly side channel attacks, some theoretical attacks
 
 performance: 700MB/s per execution thread on modern CPUs
 
-quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
-[length]
+# quiz: what you can derive about the message from the ciphertext, even if the randomization is done properly ?
+length
+
+# quiz: other attacks ?
 
 
 #assymetric crypto
@@ -86,7 +90,7 @@ key generation:
 * insecure when not padded randomly
 * bad randomness allows for key collisions
 
-# attacks - quiz - 
+# attacks on assymetric crypto - quiz - 
 * google for private keys ;)
 * private key security
 * side channel attacks

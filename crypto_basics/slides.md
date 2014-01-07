@@ -36,6 +36,18 @@
 
 ---
 
+# stream ciphers
+
+---
+
+![](../images/wep_rc4.png)
+
+---
+
+# block ciphers
+
+---
+
 ![](../images/electronic_codebook.jpg)
 
 --- 
