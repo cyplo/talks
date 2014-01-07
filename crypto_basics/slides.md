@@ -60,6 +60,19 @@
 
 ---
 
+# assymetric cryptography
+
+---
+
+![](../images/alice_and_bob.jpg)
+
+---
+
+![](../images/public_key.jpg)
+
+---
+
+
 > Creative Commons Attribution Sharealike 4
 
 --- 
