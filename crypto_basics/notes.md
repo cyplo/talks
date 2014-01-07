@@ -73,7 +73,9 @@ performance: 700MB/s per execution thread on modern CPUs
 
 
 #assymetric crypto
-* assymetric crypto - pun/quiz
+* say hi to alice and bob !
+* a bit of history on the names, more names
+* Eve, Mallory/Trudy, Wendy
 
 while symmetric crypto is good for data at rest problems, or the same person using the data as encrypting it
 it's not very good when it comes tokey exchange stuff
@@ -96,6 +98,7 @@ key generation:
 * google for private keys ;)
 * private key security
 * side channel attacks
+* how to prevent most side channel attacks ? don't use key material for branching decisions
 
 * modern motivations: mostly privacy of the individual
 
