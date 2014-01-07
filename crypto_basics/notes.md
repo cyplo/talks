@@ -165,5 +165,9 @@ CCC:
 'this year in crypto'
 * https://www.youtube.com/watch?v=HJB1mYEZPPA
 
+side channel attacks
+* https://www.youtube.com/watch?v=H-cpm7D8Sqg
+
 and other stuff
 * https://www.youtube.com/watch?v=CNXl56HuJaE
+
