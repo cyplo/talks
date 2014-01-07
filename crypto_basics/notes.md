@@ -50,9 +50,12 @@ stream ciphers: infamous example: RC4
 generally accept a block and a key, more specifically there needs to be a round key derivation
 some function and its inverse
 naive: take a plaintext, divide into blocks, cipher, concat [penguin]
+# quiz: what is the problem with that approach ?
+* (show penguin)
+
 more modern: take a randomization of the plaintext, embed initialization vector in the first block, then embed a derivate in the second block etc
 
-DES and then AES
+Data Encryption Stndard and then Advanced Enryption Standard
 
 mostly side channel attacks, some theoretical attacks
 'break' - anything better than bruteforcing key

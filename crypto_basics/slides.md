@@ -36,7 +36,10 @@
 
 ---
 
-
+![](../images/electronic_codebook.jpg)
 
 --- 
+
 > Creative Commons Attribution Sharealike 4
+
+--- 
