@@ -86,25 +86,27 @@ privatekey - signing and decrypting
 
 # RSA as an example of public key crypto
 oldest
+
+Rivest, Shamir and Adleman
+
 key generation:
 * choose 2 primes at random: p and q
 * n=pq
 * derive public key from n, derive private key from n
 
+# quiz: attacks/flaws ?
 * insecure when not padded randomly
 * bad randomness allows for key collisions
-
-# attacks on assymetric crypto - quiz - 
 * google for private keys ;)
 * private key security
 * side channel attacks
 * how to prevent most side channel attacks ? don't use key material for branching decisions
 
-* modern motivations: mostly privacy of the individual
 
 # part1: takeways:
 * entropy is king
 * most attacks are not the attacks on the math
+* modern motivations: mostly privacy of the individual
 
 # break
 
@@ -117,31 +119,36 @@ key generation:
 * first of all: is this the same info ?
 * bit number differ, camellia ?
 
+#quiz - ssl vs tls ?
+
+
+* to wikipedia !
 # TLS
 Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), are cryptographic protocols which are designed to provide communication security over the Internet.[1] They use X.509 certificates and hence asymmetric cryptography to assure the counterparty whom they are talking with, and to exchange a symmetric key. This session key is then used to encrypt data flowing between the parties. 
 
 
-* DHE
 * RSA
 * 256
-* CBC
-* SHA
+* CBC - cipher block chaining - block cipher mode
+* SHA - cryptographic hash
+* DHE
+
+mention MAC - mac(key, message) = "tag" 
 
 * TLS 1.2
-* AES_128_GCM - encrypted and authenticated
+* AES_128_
+* GCM  - mode of operation 
 * DHE_RSA key exchange
 
-
-* to wikipedia !
-In cryptography, Camellia is a 128-bit symmetric-key block cipher jointly developed by Mitsubishi and NTT of Japan. The cipher has been approved for use by the ISO/IEC, the European Union's NESSIE project and the Japanese CRYPTREC project. The cipher has security levels and processing abilities comparable to the Advanced Encryption Standard.[1]
-
-Camellia's block size is 16 bytes (128 bits), and can use 128-bit, 192-bit or 256-bit keys. The block cipher was designed to be suitable for both software and hardware implementations, from low-cost smart cards to high-speed network systems.[2]
-
 * there is an upgrade to existing plaintext connections: STARTTLS, maintain tcp connection
-*
 
-# how to test implementations
+# (how to test implementations
+* make a threat model
+* don't implement on your own !
+* check for information leaks - look at Tor project
+* wireshark, cookies
 * decouple network security from app security - insecure, duh !
+* external audits
 
 # notes on implementation
 implementing - use libraries and understood designs because it's hard any other way
