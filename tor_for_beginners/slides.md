@@ -1,19 +1,19 @@
-# Dangers of the internet and Tor
+# Dangers of the internet. And Tor.
 > by Cyryl Płotnicki-Chudyk
 
 ---
 
-## Second slide
+## Internet: how does it work ?
 
-> Best quote ever.
-
-Note: speaker notes FTW!
+<img src="images/internet-opte-2010.png"  height="512" width="512"/>
 
 ---
 
 ### More info:
 
-* https://www.torproject.org/
-* https://en.wikipedia.org/wiki/History_of_the_Internet
-* https://blog.cyplo.net/about/
+* www.torproject.org
+* en.wikipedia.org/wiki/History_of_the_Internet
+* web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+* panoptykon.org
+* blog.cyplo.net/about/
 
