@@ -3,8 +3,9 @@
 > by Cyryl Płotnicki-Chudyk
 
 Note:
-thanks to organizers
-Q&A at the end of the 'intro to internet' section and at the end of the talk
+thanks to organizers  
+was invited, discovered that to give a talk about Tor you need to first have a chat about the internet  
+Q&A at the end of the 'intro to internet' section and at the end of the talk  
 
 ---
 
@@ -23,6 +24,17 @@ Q&A at the end of the 'intro to internet' section and at the end of the talk
 
 Note:
 mention 'decentralization' of the DNS
+
+---
+
+## Choosing your path on the internet
+
+* most commonly fastest  
+* not necessarily shortest  
+* governed by an ancient protocol  
+
+Note:
+give an example of re-routing lost of traffic 'accidentally'
 
 ---
 
@@ -73,6 +85,9 @@ with HTTPS Eve might not know the content but knows about the pages you visit an
 
 # Tor
 
+Note:
+remind of a segway: your IP is valuable, Eve might get your home address
+
 ---
 
 ## Tor  
@@ -86,9 +101,36 @@ if someone knows how this works already - please remain silent for now
 
 ## Tor - how does it work ?
 
+Note: 
+
+---
+
+<img src="images/tor1.png"  height="512"/>
+
+---
+
+<img src="images/tor2.png"  height="512"/>
+
+---
+
+<img src="images/tor3.png"  height="512"/>
+
 ---
 
 > Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
+
+---
+
+## ok, ok, how do I use it ?
+
+---
+
+# Q&A
+
+---
+
+# Workshops:
+> tor@cyplo.net
 
 ---
 
