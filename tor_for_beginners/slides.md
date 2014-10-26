@@ -1,4 +1,4 @@
-# Dangers of the internet. And Tor.
+# Dangers of the internet. Suddenly - Tor.
 > by Cyryl Płotnicki-Chudyk
 
 ---
@@ -9,11 +9,22 @@
 
 ---
 
-###  Display a page
+##  Display a page over HTTP
 1. browser --domain--> DNS 
 2. DNS --IP--> browser
-3. browser --> server at IP
+3. browser --can I haz a page ?--> server at IP
 4. server --page--> browser
+
+---
+
+## HTTP vs HTTPS
+* man in the middle attacks
+* Eve snooping
+
+Note:
+questions to audience:  
+what can be snooped ?   
+what are the dangers of the mitm attacks ?
 
 ---
 
