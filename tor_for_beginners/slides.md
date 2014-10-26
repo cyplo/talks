@@ -2,6 +2,8 @@
 ## Suddenly - Tor.
 > by Cyryl Płotnicki-Chudyk
 
+
+
 Note:
 thanks to organizers  
 was invited, discovered that to give a talk about Tor you need to first have a chat about the internet  
@@ -132,9 +134,12 @@ Note:
 # Workshops:
 > tor@cyplo.net
 
+Note:
+if you had fun, send us an email
+
 ---
 
-### More info:
+### Get more info:
 
 * www.torproject.org
 * en.wikipedia.org/wiki/History_of_the_Internet
@@ -142,3 +147,9 @@ Note:
 * panoptykon.org
 * blog.cyplo.net/about/
 
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="images/cc-by-sa.png"/></a>
+> Cyryl Płotnicki-Chudyk
+
+---
