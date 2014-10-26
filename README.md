@@ -15,7 +15,9 @@ after a fresh clone, to get all the content
 
 ![cc-by-sa](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
-All of the stuff in here is made available under a Creative Commons Attribution-ShareAlike 3.0 License. You are free to copy, distribute and transmit it under the license terms defined [here][cc-license].
+All of the stuff in here is made available under a Creative Commons Attribution-ShareAlike 3.0 License by default.  
+Individual talks might have their own licensing, e.g. other version of CC license.  
+You are free to copy, distribute and transmit the mentioned stuff under the license terms defined [here][cc-license].
 
 [cc-license]: http://creativecommons.org/licenses/by-sa/3.0
 
