@@ -161,6 +161,14 @@ try to connect if having internet
 
 ---
 
+# Darknet and .onion
+
+---
+
+# other options; Tor vs I2P
+
+---
+
 # Workshops:
 > tor@cyplo.net
 
