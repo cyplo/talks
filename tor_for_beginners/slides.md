@@ -55,8 +55,9 @@ Note:
 DNS  
 PKI  
 data at rest vs data in transit -   
-transferring your home address over encrypted channel
-IP = home address nevertheless
+transferring your home address over encrypted channel  
+IP = home address nevertheless  
+with HTTPS Eve might not know the content but knows about the pages you visit anyway
 
 ---
 
