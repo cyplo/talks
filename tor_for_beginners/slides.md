@@ -15,6 +15,14 @@ Q&A at the end of the 'intro to internet' section and at the end of the talk
 
 <img src="images/internet-opte-2010.png"  height="512" width="512"/>
 
+Note:
+60s, 70s and 80s - joining computers together - timesharing
+then joining networks together + apollo program, science=openness, cold war=resilience
+each computer has an address  
+some of them have some content, some of them want content  
+other route between them  
+every thing on the network is a computer  
+
 ---
 
 ## Display a page over HTTP
@@ -39,6 +47,7 @@ also nuclear war
 * governed by an ancient protocol  
 
 Note:
+acient = sciency party, open, vulnerable
 give an example of re-routing lost of traffic 'accidentally'
 
 ---
@@ -47,24 +56,29 @@ give an example of re-routing lost of traffic 'accidentally'
 
 Note:
 quiz for the audience: what's wrong with the above  
-go for snooping and or MITM with answers, delay the rest  
+go for snooping with the answers, delay the rest  
 
 ---
 
-## Introducing HTTPS
-
-* 'prove' the authenticity of the server
-* encrypt the channel
+## Introducing HTTPS - a channel encryption
 
 Note:
-ask if anyone has an idea on how the 'proof' can be achieved
+Eve cannot see content - what can she see - ask audience
+
+encrypt the channel  
+ask what other problems there are in addition to the metadata in the clear  
+go for MITM  
 
 ---
 
-## PKI infrastructure
+## CA infrastructure
 
 Note: 
+'prove' the authenticity of the server
+ask if anyone has an idea on how the 'proof' can be achieved
 anecdotes about PKI centralized model failures
+CA roots sell rights to smaller entities  
+smaller entities care to various degrees  
 
 ---
 
@@ -88,10 +102,11 @@ with HTTPS Eve might not know the content but knows about the pages you visit an
 
 ---
 
-# Tor
+#  IP to IP connection info is valuable for Eve
 
 Note:
 remind of a segway: your IP is valuable, Eve might get your home address
+ask: how would you solve this problem ?
 
 ---
 
