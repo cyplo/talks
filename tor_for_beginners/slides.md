@@ -9,6 +9,14 @@
 
 ---
 
+###  Display a page
+1. browser --domain--> DNS 
+2. DNS --IP--> browser
+3. browser --> server at IP
+4. server --page--> browser
+
+---
+
 ### More info:
 
 * www.torproject.org
