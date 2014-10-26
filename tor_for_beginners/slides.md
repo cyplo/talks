@@ -127,7 +127,19 @@ Note:
 
 ---
 
-# Q&A
+## Desktop: Tor browser
+## Mobile: Orbot + Orweb
+
+Note: 
+F11 - show browser
+just a modified Firefox
+describe noscript, other modifications
+makes sure that nothing much leaks out
+try to connect if having internet
+
+---
+
+# Tails
 
 ---
 
@@ -135,7 +147,11 @@ Note:
 > tor@cyplo.net
 
 Note:
-if you had fun, send us an email
+very hard to show on slides, let us learn together instead
+
+---
+
+# Q&A
 
 ---
 
@@ -150,6 +166,10 @@ if you had fun, send us an email
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="images/cc-by-sa.png"/></a>
-> Cyryl Płotnicki-Chudyk
+> Cyryl Płotnicki-Chudyk  
+> < tor@cyplo.net >  
+
+Note:
+remember about workshops !
 
 ---
