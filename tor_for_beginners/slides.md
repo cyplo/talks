@@ -25,7 +25,10 @@ Q&A at the end of the 'intro to internet' section and at the end of the talk
 4. server --page--> browser  
 
 Note:
-mention 'decentralization' of the DNS
+FQDN = company name
+IP = street address
+why so comnplicated ? e.g. because one fqdn can have many IP addresses  
+also nuclear war
 
 ---
 
