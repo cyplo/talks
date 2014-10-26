@@ -102,7 +102,7 @@ with HTTPS Eve might not know the content but knows about the pages you visit an
 
 ---
 
-#  IP to IP connection info is valuable for Eve
+## IP to IP connection info is valuable
 
 Note:
 remind of a segway: your IP is valuable, Eve might get your home address
