@@ -1,8 +1,10 @@
-# Dangers of the internet. Suddenly - Tor.
+## Dangers of the internet. 
+## Suddenly - Tor.
 > by Cyryl Płotnicki-Chudyk
 
 Note:
 thanks to organizers
+Q&A at the end of the 'intro to internet' section and at the end of the talk
 
 ---
 
@@ -12,7 +14,7 @@ thanks to organizers
 
 ---
 
-##  Display a page over HTTP
+## Display a page over HTTP
 
 1. browser --domain--> DNS 
 2. DNS --IP--> browser
@@ -50,6 +52,10 @@ anecdotes about PKI centralized model failures
 ---
 
 ## How does internet work - a summary
+* each computer on the internet has an IP address
+* DNS resolves human readable names to IP addresses
+* HTTPS allows for encrypted communication
+* HTTPS means some identity proofs
 
 Note:
 DNS  
@@ -61,8 +67,28 @@ with HTTPS Eve might not know the content but knows about the pages you visit an
 
 ---
 
-## Tor
-* addresses IP layer problems 
+# Q-s and some A-s
+
+---
+
+# Tor
+
+---
+
+## Tor  
+helps with IP-level problems
+
+Note: 
+ask audience to come up with their solutions  
+if someone knows how this works already - please remain silent for now
+
+---
+
+## Tor - how does it work ?
+
+---
+
+> Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
 ---
 
