@@ -1,6 +1,9 @@
 # Dangers of the internet. Suddenly - Tor.
 > by Cyryl Płotnicki-Chudyk
 
+Note:
+thanks to organizers
+
 ---
 
 ## Internet: how does it work ?
@@ -10,21 +13,55 @@
 ---
 
 ##  Display a page over HTTP
+
 1. browser --domain--> DNS 
 2. DNS --IP--> browser
 3. browser --can I haz a page ?--> server at IP
-4. server --page--> browser
+4. server --page--> browser  
+
+Note:
+mention 'decentralization' of the DNS
 
 ---
 
-## HTTP vs HTTPS
-* man in the middle attacks
-* Eve snooping
+## Danger !  
 
 Note:
-questions to audience:  
-what can be snooped ?   
-what are the dangers of the mitm attacks ?
+quiz for the audience: what's wrong with the above  
+go for snooping and or MITM with answers, delay the rest  
+
+---
+
+## Introducing HTTPS
+
+* 'prove' the authenticity of the server
+* encrypt the channel
+
+Note:
+ask if anyone has an idea on how the 'proof' can be achieved
+
+---
+
+## PKI infrastructure
+
+Note: 
+anecdotes about PKI centralized model failures
+
+---
+
+## How does internet work - a summary
+
+Note:
+DNS  
+PKI  
+data at rest vs data in transit -   
+transferring your home address over encrypted channel
+IP = home address nevertheless
+
+---
+
+## Tor
+* addresses IP layer problems 
 
 ---
 
