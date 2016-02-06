@@ -1,14 +1,12 @@
 ### contains materials for talks and presentations I gave
 
-slides are mostly made with mdpress, using my cusotm theme, based on the default one  
-use `mdpress -r -s cypress [path]` to run them  
-most of the talks should have the slides prerendered in the respective directories  
+Decks are made mostly with either mdpress or revealjs.  
+Most of the decks should have the slides prerendered in the respective directories.  
 
 this repository contains submodules  
 please exec  
 
-    git submodule init
-    git submodule update
+    git submodule update --init --recursive
 after a fresh clone, to get all the content
 
 ### License
