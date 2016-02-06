@@ -6,18 +6,40 @@
 
 ## what: artificial intelligence
 
+![Vienna is very serious](images/nuclai.png)
+
 Note: ever fascinated by Conway's game of life ?
 
 ---
 
 # [nucl.ai](http://nucl.ai/)
-## how: small conference, games industry + academia
+## why: small conference, top of the games industry + academia
 
 Note: it's the clash between industry veterans and pure theory what makes it interesting  
-you can see the cycles of academia feeding industry and vice-versa
+you can see the cycles of academia feeding industry and vice-versa  
+Petra and Alex - super cool people  
+extra bonus: eat Weiner Schnitzel with The Witcher devs in Vienna  
 
 ---
 
-# [nucl.ai](http://nucl.ai/)
+# Erlang Factory
 
-## why: drink beer with The Witcher devs
+---
+
+# socrates
+
+---
+
+# CCC
+
+---
+
+# camps
+
+---
+
+# go and explore
+
+[Sarah Sharp on conferences](http://sarah.thesharps.us/2016/02/02/first-timers-guide-to-foss-conferences/)
+
+Note: 
