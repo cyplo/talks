@@ -1,12 +1,14 @@
 # Conferences you did not know existed and now you know you just need to go to.
 
+Note: niche ones, you dind not know about
+
 ---
 
 # [nucl.ai](http://nucl.ai/)
 
 ## what: artificial intelligence
 
-Note: ever fascinated by Conway's game of life ? automatas like that there. also game of life is a 'game' = lots of game industry people there
+Note: to me there is not much more niche than AI. everyone has heard about itbut noone really knows what's up there. ever fascinated by Conway's game of life ? automatas like that there. also game of life is a 'game' = lots of game industry people there
 
 ---
 
