@@ -6,7 +6,7 @@
 
 ## what: artificial intelligence
 
-Note: ever fascinated by Conway's game of life ?
+Note: ever fascinated by Conway's game of life ? automatas like that there. also game of life is a 'game' = lots of game industry people there
 
 ---
 
@@ -15,6 +15,7 @@ Note: ever fascinated by Conway's game of life ?
 Note: it's the clash between industry veterans and pure theory what makes it interesting  
 you can see the cycles of academia feeding industry and vice-versa  
 Petra and Alex - super cool people  
+what to bring home - new friends, techniques from game dev, which are totally different from normal programming, 
 
 ---
 
@@ -31,25 +32,25 @@ as with all good conferences it's not all about one thing, i.e. it's not all abo
 
 ## why: meet Joe Armstrong, 
 ## visit Stockholm
-Note: swedish table, very cool to visit Ericsson's offices - some of the workshops were there
+Note: swedish table, very cool to visit Ericsson's offices - some of the workshops were there. small conference, niche.
 
 ---
 
 # [SoCraTes](https://www.socrates-conference.de/)
 ## What: software craftsmanship and testing
-Note: a whole family of conferences spanning Europe
+Note: a whole family of conferences spanning Europe. growing one conference wouldn't probably work, so there is several small ones. I was to codefreeze.
 
 ---
 
 # [SoCraTes](https://www.socrates-conference.de/)
 ## Why: intimate, encourages active participation
-Note: was quite cool for me as forced me to prepare different activities for different kind of people. marketplace of ideas
+Note:  was quite cool for me as forced me to prepare different activities for different kind of people. marketplace of ideas, self organizing, not lots of governance
 
 ---
 
 # [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 ## What: CCC is beautiful and strange
-Note: a conglomerate of different tracks and ideas. history of CCC. more research, less money. everyone's equal. lots of strange and friendly people.
+Note: on the other hand, there is CCC - very organized. a conglomerate of different tracks and ideas. history of CCC. more research, less money. everyone's equal. lots of strange and friendly people.
 
 ---
 
@@ -73,7 +74,7 @@ Note: test your outdoor skills and tech, like solar powered stuff
 
 # go and explore
 ## plan your next conference now. bonus points for speaking there
-Note: talk to people. tech conferences allow you to start talking to strangers more easily - i.e. what's your project about ?
+Note: talk to people. tech conferences allow you to start talking to strangers more easily - i.e. what's your project about ? better than internet - projects start there, by the time you lear about project on the net it's already big.
 
 ---
 
@@ -81,6 +82,7 @@ Note: talk to people. tech conferences allow you to start talking to strangers m
 
 ![I'm out](images/im_out.jpg)
 
+Note: questions in the break, it's a lightning talk
 
 ---
 
