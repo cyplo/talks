@@ -88,7 +88,9 @@ Note: questions in the break, it's a lightning talk
 
 ---
 
-# further reading
+# what to do next
+
 [CCC - a very German conference](http://motherboard.vice.com/read/chaos-communication-congress-a-very-german-hacking-conference)  
-[Sarah Sharp on conferences](http://sarah.thesharps.us/2016/02/02/first-timers-guide-to-foss-conferences/)
+[Sarah Sharp on conferences](http://sarah.thesharps.us/2016/02/02/first-timers-guide-to-foss-conferences/)  
+[world seems bleak and there's no tomorrow ? - write to me](mailto:cyplo@cyplo.net)
 
