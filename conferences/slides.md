@@ -42,21 +42,49 @@ Note: a whole family of conferences spanning Europe
 ---
 
 # [SoCraTes](https://www.socrates-conference.de/)
-## Why: very intimate feel, encourages active participation
+## Why: intimate, encourages active participation
 Note: was quite cool for me as forced me to prepare different activities for different kind of people. marketplace of ideas
 
 ---
 
-# CCC
+# [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
+## What: CCC is beautiful and strange
+Note: a conglomerate of different tracks and ideas. history of CCC. more research, less money. everyone's equal. lots of strange and friendly people.
 
 ---
 
-# camps
+# [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
+## Why: the most intense 4 days of the year
+Note: remember Neo downloading kung-fu ? club mate - the legend goes that it was needed by German hackers. tracks, workshops, lockpicking, politics, meeting people. no room - no problem - streaming. meet RMS
+
+---
+
+# [The Dutch Camp & CCC (camp)]()
+## what: CCC outdoors
+Note: a tent, 10gbps connection, a middle of the forest
+
+---
+
+# [The Dutch Camp & CCC (camp)]()
+## Why: be close to the nature and the people
+Note: test your outdoor skills and tech, like solar powered stuff
 
 ---
 
 # go and explore
+## plan your next conference now. bonus points for speaking there
+Note: talk to people. tech conferences allow you to start talking to strangers more easily - i.e. what's your project about ?
 
+---
+
+> That is a very good question, but now I need to go over there...
+
+![I'm out](images/im_out.jpg)
+
+
+---
+
+# further reading
+[CCC - a very German conference](http://motherboard.vice.com/read/chaos-communication-congress-a-very-german-hacking-conference)  
 [Sarah Sharp on conferences](http://sarah.thesharps.us/2016/02/02/first-timers-guide-to-foss-conferences/)
 
-Note: 
