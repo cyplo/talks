@@ -80,17 +80,17 @@ Note: talk to people. tech conferences allow you to start talking to strangers m
 
 ---
 
-> That is a very good question, but now I need to go over there...
-
-![I'm out](images/im_out.jpg)
-
-Note: questions in the break, it's a lightning talk
-
----
-
 # what to do next
 
 [CCC - a very German conference](http://motherboard.vice.com/read/chaos-communication-congress-a-very-german-hacking-conference)  
 [Sarah Sharp on conferences](http://sarah.thesharps.us/2016/02/02/first-timers-guide-to-foss-conferences/)  
 [world seems bleak and there's no tomorrow ? - write to me](mailto:cyplo@cyplo.net)
+
+---
+
+> That is a very good question, but now I need to go over there...
+
+![I'm out](images/im_out.jpg)
+
+Note: questions in the break, it's a lightning talk
 
