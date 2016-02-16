@@ -17,7 +17,7 @@ Note: to me there is not much more niche than AI. everyone has heard about it bu
 Note: it's the clash between industry veterans and pure theory what makes it interesting  
 you can see the cycles of academia feeding industry and vice-versa  
 Petra and Alex - super cool people  
-what to bring home - new friends, techniques from game dev, which are totally different from normal programming, 
+what to bring home - new friends, techniques from game dev, which are totally different from normal programming,   
 cost: tickets from 250 EUR 
 
 ---
@@ -36,7 +36,7 @@ as with all good conferences it's not all about one thing, i.e. it's not all abo
 
 ## why: meet Joe Armstrong, 
 ## visit Stockholm
-Note: swedish table, very cool to visit Ericsson's offices - some of the workshops were there. small conference, niche.
+Note: swedish table, very cool to visit Ericsson's offices - some of the workshops were there. small conference, niche.  
 Cost: tickets from 350 EUR
 
 ---
@@ -51,7 +51,7 @@ When: e.g. codefreeze was January, German one is August
 
 # [SoCraTes](https://www.socrates-conference.de/)
 ## Why: intimate, encourages active participation
-Note:  was quite cool for me as forced me to prepare different activities for different kind of people. marketplace of ideas, self organizing, not lots of governance
+Note:  was quite cool for me as forced me to prepare different activities for different kind of people. marketplace of ideas, self organizing, not lots of governance  
 Cost: just the accomodation
 
 ---
@@ -65,7 +65,7 @@ Note: on the other hand, there is CCC - very organized. a conglomerate of differ
 
 # [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 ## Why: the most intense 4 days of the year
-Note: remember Neo downloading kung-fu ? club mate - the legend goes that it was needed by German hackers. tracks, workshops, lockpicking, politics, meeting people. no room - no problem - streaming. meet RMS
+Note: remember Neo downloading kung-fu ? club mate - the legend goes that it was needed by German hackers. tracks, workshops, lockpicking, politics, meeting people. no room - no problem - streaming. meet RMS  
 Cost: tickets from 100 EUR, can ask for discount if you can't afford
 
 ---
@@ -79,7 +79,7 @@ Note: a tent, 10gbps connection, a middle of the forest
 
 # [The Dutch Camp & CCC (camp)]()
 ## Why: be close to the nature and the people
-Note: test your outdoor skills and tech, like solar powered stuff
+Note: test your outdoor skills and tech, like solar powered stuff  
 Cost: from 125 EUR
 
 ---
