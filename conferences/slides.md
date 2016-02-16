@@ -1,14 +1,14 @@
 # Conferences you did not know existed and now you know you just need to go to.
 
-Note: niche ones, you dind not know about
+Note: niche ones, you did not know about
 
 ---
 
 # [nucl.ai](http://nucl.ai/)
 
 ## what: artificial intelligence
-
-Note: to me there is not much more niche than AI. everyone has heard about itbut noone really knows what's up there. ever fascinated by Conway's game of life ? automatas like that there. also game of life is a 'game' = lots of game industry people there
+## when: second half of July
+Note: to me there is not much more niche than AI. everyone has heard about it but noone really knows what's up there. ever fascinated by Conway's game of life ? automatas like that there. also game of life is a 'game' = lots of game industry people there
 
 ---
 
@@ -18,12 +18,14 @@ Note: it's the clash between industry veterans and pure theory what makes it int
 you can see the cycles of academia feeding industry and vice-versa  
 Petra and Alex - super cool people  
 what to bring home - new friends, techniques from game dev, which are totally different from normal programming, 
+cost: tickets from 250 EUR 
 
 ---
 
 # [Erlang Factory: EUC](http://www.erlang-factory.com/)
 
 ## what: functional programming
+## when: beginning of September
 Note: EUC = Erlang User Conference
 with FP being all the rage now, this is one of the best FP conferences in Europe
 as with all good conferences it's not all about one thing, i.e. it's not all about Erlang in this case. Lots of distributed systems things
@@ -35,23 +37,28 @@ as with all good conferences it's not all about one thing, i.e. it's not all abo
 ## why: meet Joe Armstrong, 
 ## visit Stockholm
 Note: swedish table, very cool to visit Ericsson's offices - some of the workshops were there. small conference, niche.
+Cost: tickets from 350 EUR
 
 ---
 
 # [SoCraTes](https://www.socrates-conference.de/)
 ## What: software craftsmanship and testing
+## When: depending on the conf
 Note: a whole family of conferences spanning Europe. growing one conference wouldn't probably work, so there is several small ones. I was to codefreeze.
+When: e.g. codefreeze was January, German one is August
 
 ---
 
 # [SoCraTes](https://www.socrates-conference.de/)
 ## Why: intimate, encourages active participation
 Note:  was quite cool for me as forced me to prepare different activities for different kind of people. marketplace of ideas, self organizing, not lots of governance
+Cost: just the accomodation
 
 ---
 
 # [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 ## What: CCC is beautiful and strange
+## When: end of December
 Note: on the other hand, there is CCC - very organized. a conglomerate of different tracks and ideas. history of CCC. more research, less money. everyone's equal. lots of strange and friendly people.
 
 ---
@@ -59,11 +66,13 @@ Note: on the other hand, there is CCC - very organized. a conglomerate of differ
 # [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 ## Why: the most intense 4 days of the year
 Note: remember Neo downloading kung-fu ? club mate - the legend goes that it was needed by German hackers. tracks, workshops, lockpicking, politics, meeting people. no room - no problem - streaming. meet RMS
+Cost: tickets from 100 EUR, can ask for discount if you can't afford
 
 ---
 
 # [The Dutch Camp & CCC (camp)]()
-## what: CCC outdoors
+## What: CCC outdoors
+## When: summer
 Note: a tent, 10gbps connection, a middle of the forest
 
 ---
@@ -71,6 +80,7 @@ Note: a tent, 10gbps connection, a middle of the forest
 # [The Dutch Camp & CCC (camp)]()
 ## Why: be close to the nature and the people
 Note: test your outdoor skills and tech, like solar powered stuff
+Cost: from 125 EUR
 
 ---
 
