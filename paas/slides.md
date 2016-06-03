@@ -39,7 +39,7 @@ Note: what we typically think of "the cloud", gmail
 
 ## Heroku
 
-Note: demo deploy to Heroku - owned by Salesforce now, how most of the web gets spawned nowadays, new rails app to Heroku, talk about the speed of iteration and that 
+Note: demo deploy to Heroku - owned by Salesforce now, how most of the web gets spawned nowadays, new rails app to Heroku, talk about the speed of iteration and that, integrations, ability to not worry about all the usual boilerplate - logging, auth etc 
 
 ---
 
