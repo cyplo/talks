@@ -10,7 +10,6 @@ Note: ENIAC, mainframes - one computer per company, expensive
 ---
 
 # dedicated / colocated
-> MAAS
 
 Note: mainframes step in, time-sharing on mainframes; hey - we have this expensive equipment, can we lease it out to the others ? MAAS
 
