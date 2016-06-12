@@ -1,9 +1,15 @@
-# 5+1 ways of managing program's memory
+# 5+1 ways of managing program's memory in 5+0 minutes
 
 ---
 
 # Manual
-> dynamic allocations in C, C++
+<pre>
+<code> int main()
+{
+    int* a = malloc(sizeof(int));
+}
+</code>
+</pre>
 
 ---
 
