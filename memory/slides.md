@@ -4,7 +4,8 @@
 
 # Manual
 <pre>
-<code> int main()
+<code data-trim class="C">
+int main()
 {
     int* a = malloc(sizeof(int));
 }
