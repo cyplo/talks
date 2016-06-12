@@ -9,6 +9,34 @@
 
 ---
 
+> My memory is already managed, why ?
+
+<pre>
+<code data-trim class="C">
+int double_value(int x) // x is 'allocated'
+{
+	return 2*x;
+} // x gets 'destroyed'
+
+int main()
+{
+	int value = 5;
+	int value_doubled = double_value(5);
+	printf("value %i is %i when doubled\n", value, value_doubled);
+} // all stuff 'destroyed'
+</code>
+</pre>
+<pre>
+$ valgrind ./a.out    
+==1729== Memcheck, a memory error detector
+[...]
+value 5 is 10 when doubled
+[...]
+==1729== All heap blocks were freed -- no leaks are possible
+</pre>
+
+---
+
 # Manual
 <pre>
 <code data-trim class="C">
@@ -35,11 +63,6 @@ there's probably some value of 0 under address of 1f70010, or we just crash here
 
 # Somewhat manual
 > manual reference counting, in e.g. objc
-
----
-
-# Automatic, stack-based, sync
-> scope-based variables in almost all languages
 
 ---
 
