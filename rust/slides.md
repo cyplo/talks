@@ -15,4 +15,5 @@ Usage in the wild:
 * general purpose tech stack coming up quickly though
 Friends of Rust
 Rust commercial user survey - https://internals.rust-lang.org/t/2016-rust-commercial-user-survey-results/4317
+Rust Survey - https://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html
 
