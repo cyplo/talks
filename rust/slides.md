@@ -4,6 +4,9 @@ Rust
 *
 
 
+* growing community of existing legacy projects
+"For a long while now I’ve been worried that the GNOME project would struggle to grow its contribution and stay attractive if it stuck to C in the long run (i.e. next 10-20 years)." - Alberto Ruiz
+
 Rust does not have anything
 
 * no NULL
