@@ -1,9 +1,22 @@
+
+# Rust - why ?
+
+Note:
+What do you look for when choosing a programming tool ? 
+The "ecosystem" => community much more than the language itself
+
 ---
 
-# What do you look for when choosing a programming tool ?
 
---- 
+# Rust has been built community-first 
 
+Note: 
+Rust founders were acutely aware of this, and added community tools early
+* github - development in the open, listening to feedback
+* rfc process, on github as well
+* forums, irc
+
+---
 
 Rust
 * community
@@ -50,3 +63,4 @@ It seems to me that these companies want to only work with their inside teams be
 Would anyone know ways to kickstart that?
 "
 
+---
