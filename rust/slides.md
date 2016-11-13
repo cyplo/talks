@@ -1,3 +1,10 @@
+---
+
+# What do you look for when choosing a programming tool ?
+
+--- 
+
+
 Rust
 * community
 * release train + stability
