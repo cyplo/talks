@@ -7,7 +7,6 @@ The "ecosystem" => community much more than the language itself
 
 ---
 
-
 # Rust has been built community-first 
 
 Note: 
@@ -17,6 +16,14 @@ Rust founders were acutely aware of this, and added community tools early
 * forums, irc
 
 ---
+
+# Release train
+
+---
+
+# Package manager
+
+--- 
 
 Rust
 * community
@@ -64,3 +71,11 @@ Would anyone know ways to kickstart that?
 "
 
 ---
+
+# Learning materials
+
+* into_rust
+* the book v1 and v2
+* rust by example
+* conference videos
+
