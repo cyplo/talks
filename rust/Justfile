@@ -1,0 +1,3 @@
+show:
+     reveal-md  slides.md --theme peninsula
+     
