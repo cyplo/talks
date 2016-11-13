@@ -7,8 +7,10 @@
 
 Rust
 * community
+** forums, rfc
 * release train + stability
-*
+** crater, bigquery 
+* crossplatform
 
 
 * growing community of existing legacy projects
