@@ -1,18 +1,19 @@
 
-# Rust - why ?
+# What makes you like a programming language ?
 
 Note:
 What do you look for when choosing a programming tool ? 
-What makes you "like" a progrmaming language ?
+What makes you "like" a programming language ?
 Discuss
 
 The "ecosystem" => community much more than the language itself
 
 ---
 
-# The most loved language of 2016
+# The most *loved* language of 2016
 
 Note: 
+What makes the language *loved* ?
 Stackoverflow survey 2016
 
 ---
@@ -27,43 +28,69 @@ Rust founders were acutely aware of this, and added community tools early
 
 ---
 
-# Release train
 # Package manager
-# Crossplatform
 
-Note: 
-community creates the tools
-crater
-bigquery
+Note:
+A small but important step towards sanity
+Made by experience package manager makers
 
 ---
 
+# Release train + stability
+
+
+Note:
+It is very often. It is very stable as well.
+crater, big query
+
+"
+We will use a variation of the train model, first introduced in web browsers and now widely used to provide stability without stagnation:
+New work lands directly in the master branch.
+Each day, the last successful build from master becomes the new nightly release.
+Every six weeks, a beta branch is created from the current state of master, and the previous beta is promoted to be the new stable release.
+In short, there are three release channels – nightly, beta, and stable – with regular, frequent promotions from one channel to the next.
+"
+
+---
+
+# Usage in the wild
+
+Note:
+* VLC
+* Dropbox
+* Sentry / tilde
+* Firefox
+* FFI for critical (perf, security) parts a huge use case
+* general purpose tech stack coming up quickly though
 * growing community of existing legacy projects
 "For a long while now I’ve been worried that the GNOME project would struggle to grow its contribution and stay attractive if it stuck to C in the long run (i.e. next 10-20 years)." - Alberto Ruiz
 
-Rust does not have anything
+---
 
-* no NULL
+# Rust - the language
+
 * no exceptions
 * no gc
 * no inheritance
 * no segfaults
-* not much boilerplate
-** type inference
+* no data races
+* no null
 
-Usage in the wild:
+Note:
+we haven't touched the language itself yet
+I think this is a modern language.
 
-* FFI for critical (perf, security) parts a huge use case
-* general purpose tech stack coming up quickly though
+
+---
+
+# Fast, safe, concurrent.  
+# Pick three.
+
+Note:
+
 Friends of Rust
 Rust commercial user survey - https://internals.rust-lang.org/t/2016-rust-commercial-user-survey-results/4317
 Rust Survey - https://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html
-
-Rust on prod:
-* VLC
-* Firefox
-* Dropbox
-* Sentry / tilde
 
 * Consulting needs
 
