@@ -3,7 +3,17 @@
 
 Note:
 What do you look for when choosing a programming tool ? 
+What makes you "like" a progrmaming language ?
+Discuss
+
 The "ecosystem" => community much more than the language itself
+
+---
+
+# The most loved language of 2016
+
+Note: 
+Stackoverflow survey 2016
 
 ---
 
@@ -18,20 +28,15 @@ Rust founders were acutely aware of this, and added community tools early
 ---
 
 # Release train
+# Package manager
+# Crossplatform
+
+Note: 
+community creates the tools
+crater
+bigquery
 
 ---
-
-# Package manager
-
---- 
-
-Rust
-* community
-** forums, rfc
-* release train + stability
-** crater, bigquery 
-* crossplatform
-
 
 * growing community of existing legacy projects
 "For a long while now I’ve been worried that the GNOME project would struggle to grow its contribution and stay attractive if it stuck to C in the long run (i.e. next 10-20 years)." - Alberto Ruiz
