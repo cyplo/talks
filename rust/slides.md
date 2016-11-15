@@ -6,7 +6,6 @@ What do you look for when choosing a programming tool ?
 What makes you "like" a programming language ?
 Discuss
 
-The "ecosystem" => community much more than the language itself
 
 ---
 
@@ -14,6 +13,8 @@ The "ecosystem" => community much more than the language itself
 
 Note: 
 What makes the language *loved* ?
+The "ecosystem" => community much more than the language itself
+Trust in the tools, people, to get the job done 
 Stackoverflow survey 2016
 
 ---
