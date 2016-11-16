@@ -128,24 +128,53 @@ https://play.rust-lang.org/?code=fn%20main()%20%7B%0A%20%20%20%20%2F%2F%20Don%27
 
 ---
 
-# Form groups, open a laptop, join the #rust-workshop channel
+# Form groups
+# open a laptop
+# join #rust-workshop
 
 ---
 
-# Getting to `cargo new`
+# Getting started
+
+Note:
 * https://www.rust-lang.org/en-US/downloads.html
+
+---
+
+# Go through Rustlings
+
+Note:
+https://github.com/carols10cents/rustlings
+check on all groups regularly
+
+---
+
+# Local env setup
 * VSCode
 * IntelliJ
 * Vim
 * others
 
 Note:
-let's setup the envs together
+let's setup the envs together - all computers, even the ones not used as primary in the group
 
 ---
 
-# Go through Rustlings or other favourite easy tasks
-https://github.com/carols10cents/rustlings
+# Let's build an echo server
+
+Note:
+Introduce test framework
+
+---
+
+# Let's build a chat client
+
+Note:
+groups can either be building client or server software
+
+---
+
+# Retrospective
 
 ---
 
