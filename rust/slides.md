@@ -203,5 +203,6 @@ Would anyone know ways to kickstart that?
 * into_rust
 * the book v1 and v2
 * rust by example
+* this week in rust
 * conference videos
 
