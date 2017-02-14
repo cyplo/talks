@@ -1,4 +1,3 @@
-
 # What makes you like a programming language ?
 
 Note:
@@ -6,14 +5,13 @@ What do you look for when choosing a programming tool ?
 What makes you "like" a programming language ?
 Discuss
 
-
 ---
 
 # The most *loved* language of 2016
 
 Note: 
 What makes the language *loved* ?
-The "ecosystem" => community much more than the language itself
+I think the answer is the "ecosystem" => community much more than the language itself
 Trust in the tools, people, to get the job done 
 Stackoverflow survey 2016
 
@@ -76,6 +74,7 @@ Note:
 * no segfaults
 * no data races
 * no null
+* 'zero cost' abstractions
 
 Note:
 we haven't touched the language itself yet
@@ -92,7 +91,7 @@ same-process multithreaded shared-state is safe !
 
 ---
 
-# Everything is almost the same
+# Everything is almost exactly the same
 
 Note:
 you have package manager, tools support
@@ -128,9 +127,12 @@ https://play.rust-lang.org/?code=fn%20main()%20%7B%0A%20%20%20%20%2F%2F%20Don%27
 
 ---
 
-# Form groups
+# Form groups of 2-3 people
 # open a laptop
 # join #rust-workshop
+
+Note:
+Ask for the experience in the group, mix and match
 
 ---
 
@@ -141,11 +143,14 @@ Note:
 
 ---
 
-# Go through Rustlings
+# Go through Rustlings on playpen
 
 Note:
 https://github.com/carols10cents/rustlings
 check on all groups regularly
+15-30 minutes max
+highlight tests and borrowing and ownership
+talk about returning to Rustlings as needed later
 
 ---
 
@@ -160,7 +165,19 @@ let's setup the envs together - all computers, even the ones not used as primary
 
 ---
 
-# Let's build an echo server
+# End of part 1
+
+---
+
+# Let's build an echo server TDD way
+
+Note:
+Introduce test framework
+Can be TCP-level, using hyper or nickel
+
+---
+
+# Let's build an echo server TDD way
 
 Note:
 Introduce test framework
