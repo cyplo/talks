@@ -125,6 +125,8 @@ https://play.rust-lang.org/?code=fn%20main()%20%7B%0A%20%20%20%20let%20a%20%3D%2
 Note:
 https://play.rust-lang.org/?code=fn%20main()%20%7B%0A%20%20%20%20%2F%2F%20Don%27t%20worry%20if%20you%20don%27t%20understand%20how%20%60fold%60%20works%2C%20the%20point%20here%20is%20that%20an%20immutable%20reference%20is%20borrowed.%0A%20%20%20%20fn%20sum_vec(v%3A%20%26Vec%3Ci32%3E)%20-%3E%20i32%20%7B%0A%20%20%20%20%20%20%20%20return%20v.iter().fold(0%2C%20%7Ca%2C%20%26b%7C%20a%20%2B%20b)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%2F%2F%20Borrow%20two%20vectors%20and%20sum%20them.%0A%20%20%20%20%2F%2F%20This%20kind%20of%20borrowing%20does%20not%20allow%20mutation%20to%20the%20borrowed.%0A%20%20%20%20fn%20foo(v1%3A%20%26Vec%3Ci32%3E%2C%20v2%3A%20%26Vec%3Ci32%3E)%20-%3E%20i32%20%7B%0A%20%20%20%20%20%20%20%20%2F%2F%20do%20stuff%20with%20v1%20and%20v2%0A%20%20%20%20%20%20%20%20let%20s1%20%3D%20sum_vec(v1)%3B%0A%20%20%20%20%20%20%20%20let%20s2%20%3D%20sum_vec(v2)%3B%0A%20%20%20%20%20%20%20%20%2F%2F%20return%20the%20answer%0A%20%20%20%20%20%20%20%20s1%20%2B%20s2%0A%20%20%20%20%7D%0A%0A%20%20%20%20let%20v1%20%3D%20vec!%5B1%2C%202%2C%203%5D%3B%0A%20%20%20%20let%20v2%20%3D%20vec!%5B4%2C%205%2C%206%5D%3B%0A%0A%20%20%20%20let%20answer%20%3D%20foo(%26v1%2C%20%26v2)%3B%0A%20%20%20%20println!(%22%7B%7D%22%2C%20answer)%3B%0A%7D%0A
 
+https://rufflewind.com/2017-02-15/rust-move-copy-borrow
+
 ---
 
 # Form groups of 2-3 people
@@ -132,14 +134,7 @@ https://play.rust-lang.org/?code=fn%20main()%20%7B%0A%20%20%20%20%2F%2F%20Don%27
 # join #rust-workshop
 
 Note:
-Ask for the experience in the group, mix and match
-
----
-
-# Getting started
-
-Note:
-* https://www.rust-lang.org/en-US/downloads.html
+Ask for the experience in the group, mix and match, e.g. ask for low level programming experience vs web and match those people in the groups
 
 ---
 
@@ -155,6 +150,7 @@ talk about returning to Rustlings as needed later
 ---
 
 # Local env setup
+* rustup or download installer for windows
 * VSCode
 * IntelliJ
 * Vim
@@ -166,6 +162,13 @@ let's setup the envs together - all computers, even the ones not used as primary
 ---
 
 # End of part 1
+
+* into_rust
+* the book v1 and v2
+* rust by example
+* this week in rust
+* conference videos
+* borrowing explained https://rufflewind.com/2017-02-15/rust-move-copy-borrow
 
 ---
 
@@ -222,4 +225,4 @@ Would anyone know ways to kickstart that?
 * rust by example
 * this week in rust
 * conference videos
-
+* borrowing explained https://rufflewind.com/2017-02-15/rust-move-copy-borrow
