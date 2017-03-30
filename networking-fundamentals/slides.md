@@ -4,6 +4,7 @@
 * ethernet
 * ip
 ** ipv4 ipv6
+** nat, typical home network
 * udp
 * tcp
 * icmp
