@@ -13,7 +13,7 @@
 *
 
 workshop
-
+* c10k ?
 * provide server on the network - spawn new ec2 instance ?
 * you have inherited a server ?
 * bind9 - add a new subdomain
