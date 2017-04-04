@@ -47,6 +47,7 @@ workshop
 14) log in to the two node
 15) discuss solution
 
+* host website under domain itself as well
 * minimize the number of servers
 * test number of connections
 
