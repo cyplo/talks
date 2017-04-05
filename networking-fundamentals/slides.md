@@ -1,17 +1,36 @@
-* two parts
+* two parts - a lot of material, please ask questions
 * me talking 
 * you working
 
 ---
 
 * history of the internet
-* the year is 18xx - development of http starts
+* the year is 1804 - development of http starts - telegraph with 35 wires, each one letter, bubbles out of water
+- telephone 1870s
+* analog vs digital
+beginning of computer networks - 1969 - arpanet - RFC 1 - https://tools.ietf.org/html/rfc1
+arbitrary headers + messages
+
+- 1981 - london connected 
+
+details of the actual headers not important
+not talking about a lot of stuff - circuit switched vs packet switched
+
 
 * ethernet
+
 * ip
 ** ipv4 ipv6
+* ip addresses - connectionless protolcol - a message can be sent without prearangement
 * udp
+    * connenctionless
 * tcp
+    * adds ports !
+    * connection
+    * syn ?
+    * syn-ack !
+    * ack !
+
 * icmp
 * dns
 * http
@@ -19,6 +38,8 @@
 connection vs no connection
 
 * modern stack - trip of a request - talk
+* dns -> dns roots, gets ip, connects over tcp to predefined port, how does the server know which conneciton is which ? ports on the server side as well !
+
 ** nat, typical home network
 
 books to read:
