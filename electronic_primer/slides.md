@@ -9,3 +9,4 @@ Tools:
 * multimeter
 * oscilloscope
 * breadboard
+* kicad - design + talk about simulation
