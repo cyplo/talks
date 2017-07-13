@@ -2,14 +2,19 @@
 * get intuition around electricity
 * play with sample hardware
 * try to sketch in software
-* plan production, mention BOM, layout, manufacturing
+* plan production, mention BOM, layout, manufacturing - cost of prototyping high so simulation is needed
 * hardware hacker book
+
+Fun facts:
+* first telegraph
+* smoke tests - the name
 
 * Play with blinky, turn pots, press buttons, observer resistance changes
 * Ask about where energy comes from
 * Show motor running and not running where LED is visible
 * Electricity as water
 * Resistance as kid on a hose
+* Volt, Watt, Joule(w/s), Ohm
 
 Intuitions:
 * everything is analogue, we quantize when we measure
