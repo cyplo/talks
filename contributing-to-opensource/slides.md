@@ -16,4 +16,7 @@ GitHub and others - web-based contributions --> changing people's mind, no more 
 
 ---
 
+# Think of a project that helped you and contribute back even a little
+
+---
 
