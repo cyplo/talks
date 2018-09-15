@@ -1,6 +1,6 @@
 ### contains materials for talks and presentations I gave
 
-Decks are made mostly with either mdpress or revealjs.  
+Decks are made mostly with either `reveal-md` or `mdpress`  
 Most of the decks should have the slides prerendered in the respective directories.  
 
 this repository contains submodules  
