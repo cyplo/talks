@@ -79,13 +79,20 @@ talk about returning to Rustlings as needed later
 
 # Hack without fear
 
-> Write an UDP echo client-server pair - 
+> Write an UDP echo client-server pair
 
 Note:  
 
 one group writes a server one a client  
 agree on the protocol among yourselves !  
 
+---
+
+# So much reading !
+
+Note:
+
+Code reading exercise based on the UDP server:
 
 ---
 
