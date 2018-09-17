@@ -98,6 +98,10 @@ Code reading exercise based on the UDP server:
 
 # Retrospective
 
+---
+
+# Help out if you can
+
 Note:
 
 Learning materials  
