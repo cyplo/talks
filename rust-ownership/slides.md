@@ -100,7 +100,9 @@ Code reading exercise based on the UDP server:
 
 ---
 
-# Help out if you can
+# Help out if you can !
+
+> OSS, forums, discord, irc, talks, workshops...
 
 Note:
 
