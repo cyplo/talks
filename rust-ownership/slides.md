@@ -59,6 +59,8 @@ https://rufflewind.com/2017-02-15/rust-move-copy-borrow
 # Form groups of 2-3 people
 
 Note:
+Anyone has their own problem they brought ?  
+
 Ask for the experience in the group, mix and match, e.g. ask for low level programming experience vs web and match those people in the groups - match people with much Rust with low Rust
 
 ---
@@ -110,6 +112,7 @@ Learning materials
 * into_rust
 * v2
 * rust by example
+* https://exercism.io/cli-walkthrough
 * this week in rust
 * conference videos
 * borrowing explained https://rufflewind.com/2017-02-15/rust-move-copy-borrow
